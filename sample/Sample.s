@@ -3,5 +3,5 @@ let _ = require( 'wimagewritereps' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
